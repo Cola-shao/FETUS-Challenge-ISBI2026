@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a semi-supervised carotid plaque segmentation and classification system. It adopts a Mean Teacher framework to perform multi-task learning on carotid ultrasound images (longitudinal and transverse views):
+Participants are required to use a single image from one of the four standard cardiac planes of each patient as input to the model. The model must simultaneously generate both segmentation results and disease classification outcomes for the corresponding input view.
 
 - Fetal Heart Segmentation: Models should produce pixel-level segmentation for the anatomical structures defined in the dataset. 
 - Congenital Heart Disease Diagnosis: Models should classify each view into predefined diagnostic categories.
