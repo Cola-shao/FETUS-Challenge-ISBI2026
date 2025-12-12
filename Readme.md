@@ -1,11 +1,11 @@
-# Carotid Plaque Segmentation and Classification Project
+# FETUS 2026: Fetal HearT UltraSound Segmentation and Diagnosis Challenge
 
 ## Project Overview
 
 This project implements a semi-supervised carotid plaque segmentation and classification system. It adopts a Mean Teacher framework to perform multi-task learning on carotid ultrasound images (longitudinal and transverse views):
 
-- Segmentation task: identify vessel and plaque regions (3-class segmentation: background, vessel, plaque)
-- Classification task: determine plaque risk level (RADS2 vs RADS3-4, binary classification)
+- Fetal Heart Segmentation: Models should produce pixel-level segmentation for the anatomical structures defined in the dataset. 
+- Congenital Heart Disease Diagnosis: Models should classify each view into predefined diagnostic categories.
 
 ## Project Structure
 
