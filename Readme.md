@@ -193,8 +193,7 @@ We provide three submission channels:
 - Google Drive (for Method B): Upload the Docker image to Google Drive and submit the share link on the submission page.
 - Baidu Netdisk (for Method B): Upload the Docker image to Baidu Netdisk and submit the share link on the submission page.
 
-[Submission Link]([Dashboard - Challenge](http://119.29.231.17:9000/dashboard))
-
+[Dashboard - Challenge](http://119.29.231.17:9000/login)
 ## FAQ
 
 ### Q1: Docker image push failed frequently?
@@ -203,3 +202,4 @@ Answer:
 
 - From mainland China, you may need to use a proxy server to access Docker Hub
 - Alternatively, you can submit your image via Google Drive or Baidu Netdisk
+
