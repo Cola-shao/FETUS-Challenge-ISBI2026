@@ -1,4 +1,4 @@
-🤰FETUS 2026 Challenge Baseline — Quick Start
+<b>🤰FETUS 2026 Challenge Baseline — Quick Start</b>
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-12.1-green?style=for-the-badge&logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
