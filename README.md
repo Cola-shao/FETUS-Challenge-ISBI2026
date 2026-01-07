@@ -1,4 +1,4 @@
-# <img src="heart.jpg" alt="Fetal heart icon" height="35" width="25" style="vertical-align: middle; margin-right:10px;" />FETUS 2026 Challenge Baseline — Quick Start
+🫀FETUS 2026 Challenge Baseline — Quick Start
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-12.1-green?style=for-the-badge&logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
