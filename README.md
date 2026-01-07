@@ -47,7 +47,7 @@ For official rules, dataset downloads and the evaluation server, visit the [FETU
 │   └── fetus.py                 # Training dataset
 ├── 📂 model/                     # 🧠 Model architectures
 │   ├── Echocare.py              # Echocare model with LoRA
-│   └── UNet.py                  # Lightweight UNet model
+│   └── unet.py                  # Lightweight UNet model
 ├── 📂 util/                      # 🛠️ Utility functions
 │   └── utils.py                 # Training utilities
 ├── 🧠 pretrained_weights/        # 🤖 Pre-trained models
