@@ -44,13 +44,11 @@ For official rules, dataset downloads and the evaluation server, visit the [FETU
 ├── 📂 dataset/                   # 📊 Data loading utilities
 │   ├── fetus_eval.py            # Evaluation dataset
 │   ├── fetus_infer.py           # Inference dataset
-│   └── fetus_train.py           # Training dataset
+│   └── fetus.py                 # Training dataset
 ├── 📂 model/                     # 🧠 Model architectures
 │   ├── Echocare.py              # Echocare model with LoRA
-│   ├── UNet.py                  # Lightweight UNet model
-│   └── unet_parts.py            # UNet components
+│   └── UNet.py                  # Lightweight UNet model
 ├── 📂 util/                      # 🛠️ Utility functions
-│   ├── __init__.py
 │   └── utils.py                 # Training utilities
 ├── 🧠 pretrained_weights/        # 🤖 Pre-trained models
 ├── 📊 step_0_split_train_valid_fold.py  # 📊 Data splitting
