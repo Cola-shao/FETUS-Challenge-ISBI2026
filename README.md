@@ -219,8 +219,8 @@ tensorboard --logdir ./checkpoints_baseline_unet/tb       # UNet logs
 
 ```
 🎯 ./predictions/
-├── 📄 case_0001_pred.h5    # ❤️ Fetal cardiac analysis
-├── 📄 case_0002_pred.h5    # 🏥 Segmentation & classification
+├── 📄 1.h5    # ❤️ Fetal cardiac analysis
+├── 📄 2.h5    # 🏥 Segmentation & classification
 └── 📄 ... (all test cases)
 
 📊 Each H5 file contains:
